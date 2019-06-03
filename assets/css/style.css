@@ -1,0 +1,35 @@
+body {
+    background-color: gold;
+    
+}
+#jumbo {
+    
+    background: url("https://filmdaily.co/wp-content/uploads/2018/08/marvel-cinematic-universe-ten-years-poster.jpg");
+    background-size: 100% 100%;
+    height: 300px;
+}
+.form-group {
+    border: 1px solid;
+    height: auto;
+    width: auto;
+    background-color: rgb(224, 216, 181);
+    padding: 50px;
+    text-align: center;
+
+   
+    
+}
+#formId{
+    padding: 30px;
+    float: inline-end;
+
+}
+#heading {
+	font-weight: bold;
+}
+#time-left {
+    text-align: center;
+}
+.label {
+    padding: 10px;
+}
